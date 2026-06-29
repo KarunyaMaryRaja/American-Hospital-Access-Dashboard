@@ -89,6 +89,8 @@ County Population Estimates 2025 | U.S. Census Bureau | [census.gov](https://www
 
 # Key Insight
 North Carolina, Texas, and Louisiana have the highest number of hospital desert counties — yet Texas also has the most hospitals overall. This reveals that **raw hospital count does not equal equitable access.**
+<img width="573" height="503" alt="image" src="https://github.com/user-attachments/assets/72a49b93-f20a-4f73-9aa1-359a7e9d07e4" />
+
 
 **Karunya Mary Raja**
 MS in Information Systems & Technologies — University of North Texas
